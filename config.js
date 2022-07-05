@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['601169655956'] //ur owner number
-global.ownername = "PaktamXbot"
+global.owner = ['6287859886193'] //ur owner number
+global.ownername = "Birin"
 global.ytname = "YT: Gempy Ton" //ur yt chanel name
 global.socialm = "IG : @gmpyyy" //ur github or insta name
 global.location = "Surga, dan, Neraka" //ur location
 
 //bot bombdy
-global.botname = "PAKTMBOTz" //ur bot name
+global.botname = "OrzanBot" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/wNlvYrzP.mp4' } //gif and video menu
-global.packname = "PAKTAMBOTz\n\n\n\n\n\n\n🗿🗿🗿 "
-global.author = "🗿Created by PaktamXbot"
+global.packname = "Birinz\n\n\n\n\n\n\n🗿🗿🗿 "
+global.author = "🗿Created by Birinz"
 global.themeemoji = "🥶"
 global.reactmoji = "😘"
-global.ownertag = ['6287898307350'] //ur owner tag
-global.ownernummenu = ['601169655956'] //ur owner number in menu and all
-global.watermark = "PaktamBotz." //ur watermark
+global.ownertag = ['6287859886193'] //ur owner tag
+global.ownernummenu = ['6287859886193'] //ur owner number in menu and all
+global.watermark = "OrzanBot" //ur watermark
 global.botscript = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"
 global.linkz1 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
 global.linkz2 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
