@@ -59,7 +59,7 @@ global.ownertag = ['6287859886193'] //ur owner tag
 global.ownernummenu = ['6287859886193'] //ur owner number in menu and all
 global.watermark = "OrzanBot" //ur watermark
 global.botscript = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"
-global.linkz1 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
+global.linkz1 = "https://chat.whatsapp.com/IvfftZZwq6k8cokFTi5Hzp"
 global.linkz2 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
 
 //Bot theme media
