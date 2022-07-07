@@ -60,7 +60,7 @@ global.ownernummenu = ['6287859886193'] //ur owner number in menu and all
 global.watermark = "OrzanBot" //ur watermark
 global.botscript = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"
 global.linkz1 = "https://chat.whatsapp.com/IvfftZZwq6k8cokFTi5Hzp"
-global.linkz2 = "https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2"
+global.linkz2 = "https://chat.whatsapp.com/IvfftZZwq6k8cokFTi5Hzp"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/20220703_191204.jpg") //ur thumb pic
@@ -101,12 +101,12 @@ global.mess = {
     group: 'FITUR INI KHUSUS GRUP',
     private: 'FITUR INI KHUSUS PRIVATE CHAT',
     bot: 'This feature is only for bot',
-    wait: 'SABAR YA, PAKTAMBOTz PROCESS...',
+    wait: 'Sabar kontol OrzanBot🌊 proses crot.. ',
     linkm: 'Where is the link?',
     error: 'Error!',
     ban: 'KAMU TELAH DI BANNED, SILAHKAN HUBUNGI OWNER UNTUK UNBANNED',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'PAKTAMBOT TELAH DILARANG MERESPON GRUP INI,SILAHKAN HUBUNGI OWNER UNTUK DI UNBAN'
+    banChat: 'Orzanbot🌊 TELAH DILARANG MERESPON GRUP INI,SILAHKAN HUBUNGI OWNER UNTUK DI UNBAN'
 }
 global.limitawal = {
     premium: "Infinity",
